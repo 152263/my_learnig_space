@@ -1,2 +1,2 @@
-# my_learnig_space
+# my_learning_space
 change comes with update
